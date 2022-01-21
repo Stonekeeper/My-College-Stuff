@@ -1,1 +1,1 @@
-## The folder CN Consists of codes for Lab Cycle 2
+## The folder CN consists of codes for Lab Cycle 2
