@@ -6,5 +6,5 @@ Pro 5 : Linear Regression <br>
 Pro 6 : K Means Clustering <br>
 Pro 7 : Expectation Maximization <br>
 Pro 8 : K Nearest Neighbor  <br>
-Pro 9 :  <br>
+Pro 9 : Bayesian Network <br>
 Pro 10 :  <br>
